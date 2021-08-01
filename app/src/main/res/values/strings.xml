@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ciceron</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="go_to_driver_fragment">Go to driver fragment</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="go_to_main">Go to main</string>
+    <string name="loginfragment">LoginFragment</string>
+    <string name="driverfragment">DriverFragment</string>
+    <string name="go_to_survey">Go to survey</string>
+    <string name="surveyfragment">SurveyFragment</string>
+    <string name="go_to_problem">Go to problem</string>
+    <string name="problemfragment">ProblemFragment</string>
+    <string name="go_to_gratitude">Go to Gratitude</string>
+    <string name="gratitudefragment">GratitudeFragment</string>
+</resources>
